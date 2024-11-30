@@ -34,7 +34,6 @@ This project implements a **5-bit full adder** in VHDL using both **structural**
 ## Tools Used
 - **VHDL**: Hardware description language.
 - **ModelSim/QuestaSim**: For simulation.
-- **Vivado/Quartus**: For synthesis (if needed).
 
 ## How to Run
 1. Clone this repository:
